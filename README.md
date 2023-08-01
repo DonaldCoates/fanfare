@@ -1,2 +1,2 @@
 # FanFare Newsletter
-Weekly newsletter that's sent to D23 Fan Club members
+Weekly newsletter for D23 Fan Club members.
